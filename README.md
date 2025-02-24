@@ -1,2 +1,2 @@
 # 1
-codes for RFBsU
+codes for GlobalClip
